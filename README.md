@@ -1,5 +1,8 @@
 # automated-idef0-generator
 Автоматизация создания IDEF0 диаграмм с декомпозицией с помощью n8n.
+В проекте не использовались готовые ноды от LangChain, так как это была тренировка и проверка себя.
+<img width="1623" height="416" alt="image" src="https://github.com/user-attachments/assets/9fc74d45-f5e5-4aec-844d-533aae247208" />
+
 
 # AI Business Process Modeler (IDEF0) on n8n
 
